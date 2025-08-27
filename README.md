@@ -1,7 +1,7 @@
 
-**LeetCode Solutions by Problem Number（C++ 实现，后续不断更新）**。
+**LeetCode Solutions by Problem Number（C++ 实现，后续不断更新）**
 
-你可以直接放在 GitHub 项目的首页，后续只要在 repo 里添加题目代码文件（例如 `0001_two_sum.cpp`），就可以了。
+
 
 ---
 
